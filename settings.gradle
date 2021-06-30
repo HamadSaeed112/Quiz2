@@ -1,0 +1,2 @@
+rootProject.name = "SQL_V1"
+include ':app'
